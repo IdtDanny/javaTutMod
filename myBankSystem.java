@@ -31,7 +31,7 @@ public class myBankSystem {
 				
 				double newBalance = myDeposit(deposit);
 								
-				System.out.println("Your new Balance: " + newBalance);
+				System.out.println("Your new Balance: " + newBalance); 
 			}
 			
 			else if (num == 3) {
