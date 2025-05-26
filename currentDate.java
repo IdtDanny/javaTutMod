@@ -1,15 +1,14 @@
-package javaTutMod;
 
-import java.util.Date;
+package javatutmod;
+import java.util.*;
 
 public class currentDate {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		Date currentDate = new Date();
-		
-		System.out.println("The current date is " + currentDate.toString());
-	}
-
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Date currentDate = new Date();
+        
+        System.out.println("The current date is " + currentDate.toString());
+    }
+    
 }
